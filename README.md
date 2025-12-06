@@ -1,7 +1,8 @@
 # 💫 About Me:
-- Deveoper studying Computer Sciene @ UBCO
+- Developer studying Computer Science @ UBCO
 - Ex - Spartan Controls SDE
 - Currently working on Apple Trait Analysis Software for Honors
+- Interested in Deep Learning and Data Driven ideas
 
 
 ## 🌐 Socials:
