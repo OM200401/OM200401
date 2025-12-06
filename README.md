@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a passionate Developer in my 3rd year studying at University of British Columbia Okanagan . <br>I am currently working on a project to create a website for the <br>WCUCC (Western Canadian Undergraduate Chemistry Conference) 2025
+- Deveoper studying Computer Sciene @ UBCO
+- Ex - Spartan Controls SDE
+- Currently working on Apple Trait Analysis Software for Honors
 
 
 ## 🌐 Socials:
